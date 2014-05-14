@@ -1,4 +1,4 @@
-// Jonatahan Schmedt - cs317, Spring 2014
+// Jonathan Schmedt - cs317, Spring 2014
 package asst3b;
 
 import java.awt.Graphics;

@@ -1,4 +1,4 @@
-// Jonatahan Schmedt  CS-317, Spring 2014
+// Jonathan Schmedt  CS-317, Spring 2014
 
 package asst3b;
 
